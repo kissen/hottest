@@ -74,7 +74,7 @@ int main(int argc, char **argv)
 		exit(1);
 	}
 
-	printf("%0.1f\n", max_temp);
+	printf("%0.1f °C\n", max_temp);
 
 	// clean up
 
