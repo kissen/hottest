@@ -36,7 +36,7 @@ int main(int argc, char **argv)
 
 	double max_temp = -INFINITY;
 
-	sensors_chip_name const * cn;
+	sensors_chip_name const *cn;
 	int c = 0;
 
 	while ((cn = sensors_get_detected_chips(0, &c)) != 0) {
