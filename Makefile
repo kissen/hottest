@@ -1,5 +1,5 @@
-CFLAGS = -std=c11
-LDFLAGS = -lsensors -lm
+CFLAGS += -std=c11
+LDFLAGS += -lsensors -lm
 OBJS = hottest.o
 
 hottest: $(OBJS)
