@@ -25,8 +25,8 @@ Credit
 ------
 
 A big chunk of code is based on a snippet posted on Stack Overflow [1]
-by user Mat [2] licensed under CC BY-SA 3.0. As that is a viral license,
-this project is also licensed under the terms of CC BY-SA 3.0.
+by user Mat [2] licensed under CC BY-SA 3.0 [3]. As that is a viral license,
+this project is also licensed under the terms of CC BY-SA 3.0 [3].
 
 [1] https://stackoverflow.com/a/8565176
 [2] https://stackoverflow.com/users/635608/mat
