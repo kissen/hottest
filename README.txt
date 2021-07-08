@@ -15,7 +15,7 @@ install it with
 
     # apt install libsensors4-dev
 
-With that installed, simply run
+With that installed, run
 
      $ make
 
