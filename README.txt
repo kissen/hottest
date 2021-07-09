@@ -17,7 +17,7 @@ install it with
 
 With that installed, run
 
-     $ make
+    $ make
 
 in the project directory. You should now have a "hottest" binary.
 
