@@ -3,7 +3,7 @@ LDFLAGS += -lsensors -lm
 OBJS = hottest.o
 
 hottest: $(OBJS)
-	$(CC) $(LDFLAGS) -o $@ $^
+	$(CC) -o $@ $^ $(LDFLAGS)
 
 clean:
 	rm -f hottest $(OBJS)
