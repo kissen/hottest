@@ -1,4 +1,4 @@
-CFLAGS += -std=c11
+CFLAGS += -std=c11 -O3 -ffast-math
 LDFLAGS += -lsensors -lm
 OBJS = hottest.o
 
